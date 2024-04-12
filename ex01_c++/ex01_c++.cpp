@@ -10,6 +10,7 @@ int main() {
 	int soma = instalacao + limpeza + manutencao;
 
 	cout << soma;
+	return 0;
 };
 
 
@@ -24,6 +25,7 @@ int main() {
 	int mult = recebe * horas;
 
 	cout << mult;
+	return 0;
 };
 
 
@@ -39,6 +41,7 @@ int main() {
 	int sub = bombomTotal - compra;
 
 	cout << sub;
+	return 0;
 };
 
 
@@ -53,6 +56,7 @@ int main() {
 	int div = GarrafaAgua / caixas;
 
 	cout << div;
+	return 0;
 };
 
 
@@ -71,4 +75,5 @@ int main() {
 	cout << faturamento;
 	cout << "\n";
 	cout << total_camisas;
+	return 0;
 };
